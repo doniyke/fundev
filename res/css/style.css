@@ -1,0 +1,28 @@
+section#header{
+	background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('../imgs/bg1.jpg') no-repeat no-repeat center center;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+	min-height:30vh;
+	padding-top: 20vh;
+	padding-bottom: 10vh;
+	color: #fff;
+	text-align: left !important;
+	justify-content: left !important;
+	align-items: left !important;
+
+}
+
+
+
+/*global styles*/
+.text-white, .text-white:hover {
+	color: #fff !important;
+}
+.img-holder{
+	height: 150px;
+	overflow: hidden;
+}
+progress{
+	width: 100%
+}
